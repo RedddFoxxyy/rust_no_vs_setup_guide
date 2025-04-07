@@ -15,4 +15,10 @@ There are 2 alternative toolchains you that can use on windows instead of using 
 
 This guide will cover the setup of rust for developing on windows using each of the above toolchain.
 
+## Contribution
+
+If you want to contribute to this guide, you can open an issue on GitHub and make a pull request. 
+For large changes, it is preferred that you open an issue first to discuss the changes. 
+For any small changes, spelling, grammar and formatting fixes, directly opening a pull request should not be a problem.
+
 > Note: This guide is still under developement, and might contain some mistakes. Contributers are welcomed to fix them and open a pull request for the fixes. New additions to the guide are also welcomed.
