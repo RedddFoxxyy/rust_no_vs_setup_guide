@@ -1,0 +1,6 @@
+[book]
+authors = ["Suyog Tandel"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Setting Up Rust on Windows: The Visual Studio-Free Path"
